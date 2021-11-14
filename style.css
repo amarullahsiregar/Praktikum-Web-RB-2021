@@ -1,0 +1,12 @@
+.card {
+  border-radius: 10px;
+  padding: 20px;
+}
+.form {
+  background: #8ad7c1;
+}
+.content {
+  border-radius: 5px;
+  padding: 20px;
+  background: #c6fced;
+}
